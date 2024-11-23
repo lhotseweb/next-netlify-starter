@@ -6,12 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Syzygy Design</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome!" />
+        <img src="/Syzygy Logo Side Txt 11-5-24.svg" alt="Syzygy Logo" className={styles.logo} />
         <p className="description">
           Coming Soon!
         </p>
