@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="Welcome!" />
         <p className="description">
-          <img src="/Syzygy Logo Side Txt 11-5-24.svg" alt="Syzygy Logo" className={styles.logo} />
+          //<img src="/Syzygy Logo Side Txt 11-5-24.svg" alt="Syzygy Logo" className={styles.logo} />
           Coming Soon!
         </p>
       </main>
