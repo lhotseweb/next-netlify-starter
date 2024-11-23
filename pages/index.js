@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-import '@styles/globals.css'
 
 export default function Home() {
   return (
@@ -13,7 +12,6 @@ export default function Home() {
       <main>
         <Header title="Welcome!" />
         <p className="description">
-          //<img src="/Syzygy Logo Side Txt 11-5-24.svg" alt="Syzygy Logo" className={styles.logo} />
           Coming Soon!
         </p>
       </main>
