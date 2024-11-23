@@ -9,11 +9,10 @@ export default function Home() {
         <title>Syzygy Design</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <Header title="Welcome!" />
-        <img src="/Syzygy Logo Side Txt 11-5-24.svg" alt="Syzygy Logo" className={styles.logo} />
         <p className="description">
+          <img src="/Syzygy Logo Side Txt 11-5-24.svg" alt="Syzygy Logo" className={styles.logo} />
           Coming Soon!
         </p>
       </main>
