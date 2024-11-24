@@ -10,9 +10,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <Header title="Welcome!" />
+        <Header title="Coming Soon!" />
         <p className="description">
-          Coming Soon!
+          Contact: Ryan@thinksyzygy.com
         </p>
       </main>
 
