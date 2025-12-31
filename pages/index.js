@@ -32,13 +32,17 @@ export default function Home() {
 
       <main>
         <Header title="Syzygy Design" />
-        <p className="description">
-          <strong>Mechanical Architecture & Product Design</strong><br />
-          Independent consultancy led by <strong>Ryan Stevenson</strong>.<br />
-          Built on the rigor of the Apple Vision Products Group.<br /><br />
-          Specializing in NX-native design, DFM, and NPI execution.<br /><br />
-          Contact: <a href="mailto:Ryan@thinksyzygy.com">Ryan@thinksyzygy.com</a>
-        </p>
+        <div className="description">
+          <p>
+            <strong>Mechanical Architecture & Product Design</strong><br />
+            Independent consultancy led by <strong>Ryan Stevenson</strong>.<br />
+            Built on the rigor of the Apple Vision Products Group.
+          </p>
+          <p>
+            Specializing in NX-native design, DFM, and NPI execution.<br />
+            Contact: <a href="mailto:Ryan@thinksyzygy.com">Ryan@thinksyzygy.com</a>
+          </p>
+        </div>
       </main>
 
       <Footer />
