@@ -13,7 +13,7 @@ export default function Home() {
       "jobTitle": "Product Design Engineer",
       "affiliation": "Apple Vision Products Group"
     },
-    "description": "High-end mechanical architecture and product design engineering consultancy.",
+    "description": "Mechanical architecture and product design engineering consultancy led by Ryan Stevenson.",
     "email": "Ryan@thinksyzygy.com",
     "url": "https://thinksyzygy.com"
   };
@@ -22,7 +22,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Syzygy Design | Mechanical Architecture by Ryan Stevenson</title>
-        <meta name="description" content="Product design consultancy led by former Apple Engineer Ryan Stevenson. Specializing in NX, DFM, and complex mechanical architecture for hardware startups." />
+        <meta name="description" content="Product design consultancy led by former Apple Engineer Ryan Stevenson. Specializing in NX, DFM, and complex mechanical architecture." />
         <link rel="icon" href="/favicon.ico" />
         <script
           type="application/ld+json"
